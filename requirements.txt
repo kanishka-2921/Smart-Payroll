@@ -1,0 +1,5 @@
+PySide6
+SQLAlchemy
+pandas
+matplotlib
+openpyxl
